@@ -6,3 +6,4 @@ Recruiting a crew:
  - Technician
  - Cleaner
  - Robot
+ - Cat
