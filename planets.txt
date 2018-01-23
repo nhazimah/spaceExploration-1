@@ -1,4 +1,24 @@
+planets:
+Mercury
+Venus
 Mars
-Moon
-Pluto
+Earth
 Jupiter
+Saturn
+Uranus
+Neptune
+
+dwarf planets:
+Ceres
+Pluto
+
+satellites:
+Moon
+Phobos
+Deimos
+Ganymede
+Io
+Europa
+Calisto
+Titan
+Triton
