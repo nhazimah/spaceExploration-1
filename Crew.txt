@@ -1,0 +1,7 @@
+Recruiting a crew:
+ - Pilot ?
+ - CoPilot ?
+ - Cook
+ - Astronaut
+ - Technician
+ - Cleaner
