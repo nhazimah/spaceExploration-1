@@ -5,3 +5,4 @@ Recruiting a crew:
  - Astronaut
  - Technician
  - Cleaner
+ - Robot
